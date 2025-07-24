@@ -4,7 +4,13 @@ Este proyecto implementa un servidor basado en **Model Context Protocol (MCP)** 
 
 Desarrollado como parte del taller de introducción a MCP en **Microsoft Reactor**.
 
+<img width="416" height="463" alt="Screenshot_2" src="https://github.com/user-attachments/assets/a0d8ce60-dc7f-44e7-8d25-51bfa2545649" />
+
+<img width="408" height="495" alt="Screenshot_3" src="https://github.com/user-attachments/assets/c6c57c1c-20e2-405a-bdf0-e9cabd09d146" />
+
+
 ---
+
 
 ## 🚀 Tecnologías utilizadas
 
