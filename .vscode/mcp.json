@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"Weather-Real-Time-Server": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"-y",
+				"tsx",
+				"main.ts"
+			]
+		}
+	},
+	"inputs": []
+}
